@@ -1,4 +1,4 @@
-#include "../inc/uls.h"
+#include "../inc/libmx.h"
 
 void mx_free_void_arr(void **arr, int lines) {
     for (int i = 0; i < lines; i++) {
